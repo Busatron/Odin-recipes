@@ -1,0 +1,1 @@
+This project will demonstrate the basics of HTML web-building, along with basic css and git commits.
